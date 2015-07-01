@@ -1,0 +1,6 @@
+# ignore all files in dir tmp/
+tmp/
+
+# ignore all *.txt files
+*.txt
+*.php
